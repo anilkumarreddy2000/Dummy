@@ -1,0 +1,1 @@
+A branch is a version of the repository that diverges from the main working project. It is a feature available in most modern version control systems. These branches are a pointer to a snapshot of your changes. ... When you want to add a new feature or fix a bug, you spawn a new branch to summarize your changes.
